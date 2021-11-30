@@ -1,0 +1,69 @@
+/* this styles the header of web page */
+header { 
+  padding: 10px;
+  margin: auto;
+  text-align: left;
+  height: 100px;
+}
+
+/*this styles both the header and footer*/
+header, footer {
+  background-color: #2F2F46;
+  color: #BFBFBF;
+}
+/* the image size and the */
+img {
+  width: 310px;
+  border-radius: 10%;
+}
+
+main {
+  padding: 25px 20px 20px 25px;
+  margin: 20px 10px 20px 15px;
+}
+
+a:link    { color: rgb(80, 29, 85);  }
+a:visited { color: rgb(125, 38, 133) }
+a:hover   { color: rgb(48, 31, 49); }
+a:active  { color: rgb(110, 92, 112) }
+
+div p, ul, ol {
+  font-size: 15px;
+  font-family: Courier, monospace;
+}
+
+h1 {
+  font-size: 30px;
+  font-family: impact, sans-serif;
+}
+/* this styles the navigation*/
+nav {
+  text-align: right;
+}
+
+/*this styles the paragraph in the header*/
+header p {
+  font-family: Courier, monospace;
+  font-size: 20px;
+}
+/* added some color to the background of the web page */
+body {
+  background-color: rgb(243, 234, 225);
+}
+/* this styles the class */
+.text-style {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+/* the indent class aligns every element attached to it to the center*/
+.indent {
+  text-align: center;
+}
+/* the class in the list allows the */
+.list-inside {
+  list-style-position: inside;
+}
+/* this styles the bottom of the page*/
+footer {
+  padding: 20px;
+  font-family: cursive; 
+}
