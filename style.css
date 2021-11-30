@@ -6,8 +6,8 @@ header {
   height: 100px;
 }
 
-/*this styles both the header and footer and nav*/
-header, footer, nav {
+/*this styles both the header and footer*/
+header, footer {
   background-color: #2F2F46;
   color: #BFBFBF;
 }
