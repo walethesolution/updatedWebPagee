@@ -7,7 +7,7 @@ header {
 }
 
 /*this styles both the header and footer*/
-header, footer {
+header, footer, nav {
   background-color: #2F2F46;
   color: #BFBFBF;
 }
